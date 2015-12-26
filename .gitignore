@@ -1,0 +1,7 @@
+.Rproj.user
+.Rhistory
+.RData
+*.Rproj
+*.html
+data/Source_Classification_Code.rds
+data/summarySCC_PM25.rds
